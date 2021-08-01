@@ -1,8 +1,8 @@
 # hello-world
-1st use of GitHub with a time honored tradition. 
+This is my 1st use of GitHub! I shall begin with a time honored tradition. 
 
-Hello World
+Hello World!!!!
 
 This is my first practice at using the git hub repositories. 
 
-practicing pull requests until i understand what they do.
+I will be practicing pull requests until I understand what they do.
